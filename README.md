@@ -1,10 +1,10 @@
 # Quick rundown and selection of Web Development Frameworks 
 December 2020
 
-- # Final
+- ### Final
     - MERN Stack
     - Go + JS (Vue / Vanilla / React)
-- # **Selected**
+- ### **Selected**
     - **Go Framework** Go / Backend / Frontend
         - Looking for a great framework for Go! 
         - Use vanilla frontends with JS lib support in absence of good MVC
@@ -20,7 +20,7 @@ December 2020
         - **Small size, easy to learn, good documentation**
         - Front end focused framework for building user interfaces
         - Designed from the ground up to be incrementally adoptable
-- # **Option Set**
+- ### **Option Set**
     - [[Angular]] JavaScript / Frontend
         - Really popular frontend framework for web development
         - [[Google]] built this but doesn't use it themselves #LOL
@@ -28,14 +28,14 @@ December 2020
     - [[Flask]] Python / Backend / Frontend / MVC
         - Microframework inspired by Ruby
         - Good for fast prototyping in Python
-- # **Toolkits**
+- ### **Toolkits**
     - [[GraphQL]] JavaScript / Frontend / Toolkit
         - Great library to query APIs from the Frontend
     - [[Bootstrap]] CSS / Frontend / Toolkit
-        - CSS framework for fast prototyping frontends
+        - CSS framework for fast prototyping Frontends
     - [[jQuery]] JavaScript / Frontend / Toolkit
         - Good add-on features for Frontend JS
-- # **Others**
+- ### **Others**
     - [[Django]] Python / Backend / Frontend / MVC
         - Frontend via templating libraries which are a nightmare to learn
         - Good for prototyping as a fixed cost effort
@@ -45,9 +45,9 @@ December 2020
     - [[Ruby on Rails]] Ruby / Backend / Frontend / MVC
     - [[Elixir]] Erland / Backend / Frontend / MVC
 - **Users who would use the framework again:**
-    - ![Image for post](https://miro.medium.com/max/1720/0*5CJzUdx4uOQn988u.png =100x20)
+    - <img src="https://miro.medium.com/max/1720/0*5CJzUdx4uOQn988u.png" alt="% users" style="width:200px;"/>
 - **Frontend speed benchmarks:**
-    - ![Image for post](https://miro.medium.com/max/1534/0*BX7NDeUJFkQkYioD.png =100x20)
+    - <img src="https://miro.medium.com/max/1534/0*BX7NDeUJFkQkYioD.png" alt="x of vanilla" style="width:200px;"/>
 
 
 <hr/>
