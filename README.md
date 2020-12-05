@@ -1,6 +1,9 @@
-# Hello World. 
-## Quick rundown and selection of Web Development Frameworks (Dec 2020)
-    - ### **Final**
+# Hello World.
+<hr/>
+## Quick rundown and selection of Web Development Frameworks 
+(Dec 2020)
+
+- ### **Final**
         - MERN Stack
         - Go + JS (Vue / Vanilla / React)
     - ### **Selected**
