@@ -4,7 +4,7 @@ December 2020
 - ### **Final**
     - MERN
     - Go + JS (Vue / Vanilla)
-    
+    <br/>
 - ### **Selected**
     - **Go Framework** Go / Backend / Frontend
         - Looking for a great framework for Go! 
@@ -21,7 +21,7 @@ December 2020
         - **Small size, easy to learn, good docs**
         - Frontend framework for building user interfaces
         - Designed from the ground up to be incrementally adoptable
-        
+        <br/>
 - ### **Option Set**
     - **[[Angular]]** JavaScript / Frontend
         - Really popular frontend framework for web development
@@ -30,7 +30,7 @@ December 2020
     - **[[Flask]]** Python / Backend / Frontend / MVC
         - Microframework inspired by Ruby
         - Good for fast MVC prototyping in Python  
-        
+        <br/>
 - ### **Toolkits**
     - **[[GraphQL]]** JavaScript / Frontend / Toolkit
         - Great library to query APIs from the Frontend
@@ -38,14 +38,14 @@ December 2020
         - CSS framework for fast prototyping Frontends
     - **[[jQuery]]** JavaScript / Frontend / Toolkit
         - Good add-on tools for Frontend JS  
-        
+        <br/>
 - ### **Others**
     - **[[Django]]** Python / Backend / Frontend / MVC
         - Frontend via templating libraries :(
     - **[[Spring Boot]]** Java / Backend / Frontend / MVC
     - **[[Ruby on Rails]]** Ruby / Backend / Frontend / MVC
     - **[[Elixir]]** Erland / Backend / Frontend / MVC
-    
+        <br/>
 - **Users who would use the framework again:**
     - <img src="https://miro.medium.com/max/1720/0*5CJzUdx4uOQn988u.png" alt="% users" style="width:400px;"/>
 - **Frontend speed benchmarks:**
