@@ -1,3 +1,6 @@
+name: Twishmay Shankar
 theme: jekyll-theme-primer
 title: Twishmay Shankar
 description: GitHub Homepage.
+markdown: kramdown
+highlighter: rouge
