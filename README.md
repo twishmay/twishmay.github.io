@@ -1,6 +1,6 @@
 # Hello World. 
 <hr/>
-# Quick rundown and selection of Web Development Frameworks
+# Quick rundown and selection of Web Development Frameworks (Dec 2020)
     - ### **Final**
         - MERN Stack
         - Go + JS (Vue / Vanilla / React)
@@ -49,32 +49,6 @@
     - **Frontend speed benchmarks**
         - ![Image for post](https://miro.medium.com/max/1534/0*BX7NDeUJFkQkYioD.png =100x20)
 <hr/>
-
-
-# Markdown Reference
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Support or Contact
 
-.
+@twishmay
