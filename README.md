@@ -29,7 +29,7 @@ December 2020
         - Part of MEAN stack
     - **[[Flask]]** Python / Backend / Frontend / MVC
         - Microframework inspired by Ruby
-        - Good for fast MVC prototyping in Python
+        - Good for fast MVC prototyping in Python  
         
 - ### **Toolkits**
     - **[[GraphQL]]** JavaScript / Frontend / Toolkit
@@ -37,7 +37,7 @@ December 2020
     - **[[Bootstrap]]** CSS / Frontend / Toolkit
         - CSS framework for fast prototyping Frontends
     - **[[jQuery]]** JavaScript / Frontend / Toolkit
-        - Good add-on tools for Frontend JS
+        - Good add-on tools for Frontend JS  
         
 - ### **Others**
     - **[[Django]]** Python / Backend / Frontend / MVC
